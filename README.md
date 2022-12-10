@@ -111,7 +111,7 @@ Para finalizar, outra diferença existente entre as linguagens Java e Python é 
 
 Quando se trata de um método de uma classe, ambas as linguagens se assemelham muito.
 
-A maior diferença existente é que na linguagem Python não é necessário definir o tipo da variável de retorno de um método, como ocorre na linguagem Java, mostrando novamente a simplicidade da linguagem Python, apesar dessa simplicidade em certos momentos afetarem seu desempenho.
+A maior diferença existente é que na linguagem Python não é necessário definir o tipo da variável de retorno de um método, como ocorre na linguagem Java, mostrando novamente a simplicidade da linguagem Python.
 
 
 ### Encapsulamento
