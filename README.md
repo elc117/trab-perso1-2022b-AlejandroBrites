@@ -490,4 +490,20 @@ Desse modo é possível concluir que apesar de se tratarem de linguagens diferen
 
 Em questão de aprendizagem é possível afirmar que se torna muito mais simples e fácil aprender a trabalhar com uma dessas linguagens tendo um conhecimento prévio da outra, sendo necessário aprender as pequenas diferenças, mais particulares, existente entre as linguagens, já que ambas seguem os mesmos conceitos do Paradigma de Programação Orientada a Objetos.
 
+## Referências
 
+Python
+
+https://www.treinaweb.com.br/blog/orientacao-a-objetos-em-python
+
+https://algoritmosempython.com.br/cursos/programacao-python/encapsulamento/
+
+https://medium.com/@hudsonbrendon/entendendo-o-super-do-python-da17ee8d26ca
+
+Java
+
+https://www.devmedia.com.br/introducao-a-programacao-orientada-a-objetos-em-java/26452
+
+https://acervolima.com/nocoes-basicas-sobre-encapsulamento-heranca-polimorfismo-abstracao-em-oops/#:~:text=A%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20visa%20implementar%20entidades,c%C3%B3digo%20possa%20acessar%20esses%20dados%2C%20exceto%20aquela%20fun%C3%A7%C3%A3o.
+
+https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
