@@ -5,7 +5,7 @@ from Torcedor import Torcedor
 
 p1 =  Pessoa('Roberto', 'Barcelona')
 j1 =  Jogador('Neymar', 'Brasil', 'atacante', 10, 23000000)
-T1 =  Torcedor('Regina', 'Internacional')
+T1 =  Torcedor('Bruno', 'Internacional')
 t1 =  Tecnico('Tite', 'Brasil', 1600000)
 
 p1.apresentacao()
